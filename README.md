@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Gelstein
-- 👀 I’m interested in js, react, angular, tailwindcss
-- 🌱 I’m currently learning more js!
+- 👀 I’m interested in javascript, react, angular, tailwindcss
+- 🌱 I’m currently focusing on data structures and efficient problem solving
 - 📫 How to reach me -> https://www.linkedin.com/in/andrewgelstein/
 
 <!---

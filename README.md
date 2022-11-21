@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AGelstein
-- 👀 I’m interested in js, react, angular
+- 👋 Hi, I’m Andrew Gelstein
+- 👀 I’m interested in js, react, angular, tailwindcss
 - 🌱 I’m currently learning more js!
 - 📫 How to reach me -> https://www.linkedin.com/in/andrewgelstein/
 

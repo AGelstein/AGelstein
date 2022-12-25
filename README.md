@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Gelstein
-- 👀 I’m interested in javascript, react, angular, tailwindcss
+- 👀 I’m interested in javascript, react, angular, flutter, tailwindcss
 - 🌱 I’m currently focusing on data structures and efficient problem solving
 - 📫 How to reach me -> https://www.linkedin.com/in/andrewgelstein/
 

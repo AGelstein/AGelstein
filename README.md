@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Gelstein
 - 👀 I’m interested in typescript, angular, react, and tailwindcss
-- 🌱 I’m currently focusing on data structures and efficient problem solving
+- 🌱 I’m currently focusing on designing scalable solutions in modern angular
 - 📫 How to reach me -> https://www.linkedin.com/in/andrewgelstein/
 
 <!---

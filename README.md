@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Gelstein
 - 👀 I’m interested in typescript, angular, nestjs, react, and tailwindcss
-- 🌱 Currently focused on designing scalable fullstack solutions with modern angular
+- 🌱 Currently focused on designing scalable solutions with modern angular
 - 🚴‍♂️ Avid bicycle rider, always exploring new trails in my free time
 - 📫 How to reach me -> https://www.linkedin.com/in/andrewgelstein/
 

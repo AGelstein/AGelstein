@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Andrew Gelstein
-- 👀 I’m interested in typescript, angular, react, and tailwindcss
-- 🌱 I’m currently focusing on designing scalable solutions in modern angular
+- 👀 I’m interested in typescript, angular, nestjs, react, and tailwindcss
+- 🌱 Currently focused on designing scalable fullstack solutions with modern angular
+- 🚴‍♂️ Avid bicycle rider, always exploring new trails in my free time
 - 📫 How to reach me -> https://www.linkedin.com/in/andrewgelstein/
+
+
 
 <!---
 AGelstein/AGelstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
